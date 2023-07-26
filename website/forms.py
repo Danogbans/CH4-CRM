@@ -44,7 +44,6 @@ class AddRecordForm(forms.ModelForm):
 	state = forms.CharField(label='', required=True, widget=forms.TextInput(attrs={'class':'form_control', 'placeholder':'State'}))
 	zip_code = forms.CharField(label='', required=True, widget=forms.TextInput(attrs={'class':'form_control', 'placeholder':'Zipcode'}))
 
-
 	class Meta:
 		model = Record
 		exclude = ("user",)
