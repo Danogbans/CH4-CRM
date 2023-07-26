@@ -34,7 +34,6 @@ class SignUpForm(UserCreationForm):
 
 
 # ------------------------Add Record Form -------------------------
-
 class AddRecordForm(forms.ModelForm):
 	first_name = forms.CharField(label='', required=True, widget=forms.TextInput(attrs={'class':'form_control', 'placeholder':'First Name'}))
 	last_name = forms.CharField(label='', required=True, widget=forms.TextInput(attrs={'class':'form_control', 'placeholder':'Last Name'}))
