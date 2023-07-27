@@ -2,7 +2,7 @@ from django.db import models
 
 
 
-# -------------------------------------------- Database Models -----------------------------------------------------
+# -------------------------- Database Models -----------------------------------
 
 class Record(models.Model):
 	creation_date = models.DateTimeField(auto_now_add=True)
