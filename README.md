@@ -1,5 +1,5 @@
 # CH4-CRM
-## Customer Relationship Management System (CRM) 
+## Customer Relationship Management System (CRM)  
 This project was created as a result of the necessity to have a client database. It is used to manage and keep record of customer information, add new customers, update customer's history if changes are made and finally to delete inactive customer records. In other words, it is a CRUD application.
 
 ## Motivations
