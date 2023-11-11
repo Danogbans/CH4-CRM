@@ -18,7 +18,7 @@ This project being my first github project was an eye opener for me. I have been
 - mySQL configuration
 - Bootstrap table
 
-Some of the challenges I faced creating this application was getting stuck so many times. I had to find my way out by googling up information, using stack overflow and django documentation.
+Some of the challenges I faced creating this application was getting stuck so many times. I had to find my way out by googling up information, using stack overflow and django documentation. 
 
 ## Installation
 1 . Clone the repository
