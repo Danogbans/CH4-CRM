@@ -6,7 +6,7 @@ This project was created as a result of the necessity to have a client database.
 Having been an English teacher for more than 10 years, it was time for me to change my traditional way of keeping record of my students. So, I came up with a CRUD application adapted from John Elder's django CRM tutorial on Youtube. Apart from recently finishing from a python and django full stack developer bootcamp, it was time for me to start practicing my skills in a guided manner. So I thought reinventing the wheel of a project-based tutorial might be a good start.
 
 ## Lessons Learned
-This project being my first github project was an eye opener for me. I have been able to learn the following: 
+This project being my first github project was an eye opener for me. I have been able to learn the following:  
 
 - How to set up a project in django framework.
 - How to structure a CRUD application
