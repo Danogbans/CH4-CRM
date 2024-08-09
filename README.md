@@ -23,7 +23,7 @@ Some of the challenges I faced creating this application was getting stuck so ma
 ## Installation
 1 . Clone the repository
 ```bash
-  git clone https://github.com/<username>/<forked-repo>.git
+  git clone https://github.com/<username>/<forked-repo>.git 
 ```
 2 . Create your own virtual environment
 ```bash
