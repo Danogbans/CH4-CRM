@@ -8,7 +8,7 @@ Having been an English teacher for more than 10 years, it was time for me to cha
 ## Lessons Learned
 This project being my first github project was an eye opener for me. I have been able to learn the following:      
 
-- How to set up a project in django framework. 
+- How to set up a project in django framework.  
 - How to structure a CRUD application
 - How to set up mySQL workbench.
 - Django user authentication
