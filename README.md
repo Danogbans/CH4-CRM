@@ -14,7 +14,7 @@ This project being my first github project was an eye opener for me. I have been
 - Django user authentication
 - Django form validation
 - Django tags
-- Connecting to mySQL using python 
+- Connecting to mySQL using python  
 - mySQL configuration
 - Bootstrap table
 
