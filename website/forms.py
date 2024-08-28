@@ -4,7 +4,7 @@ from django import forms
 from .models import Record
 
 
-# -------------------Registration Form -------------
+# ------------------Registration Form -------------
 class SignUpForm(UserCreationForm):
 	email = forms.EmailField(label='', widget=forms.TextInput(attrs={'class':'form_control', 'placeholder':'Email Address'}))
 	first_name = forms.CharField(label='', max_length=100, widget=forms.TextInput(attrs={'class':'form_control', 'placeholder':'First Name'}))
