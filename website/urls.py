@@ -1,4 +1,4 @@
-# -------------------------------- App (website) urls ----------------------------
+# ------------------------- App (website) urls ----------------------------
 
 from django.urls import path
 from . import views
