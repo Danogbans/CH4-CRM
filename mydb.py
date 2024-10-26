@@ -10,7 +10,7 @@ dataBase = mysql.connector.connect(
 
 
 # Prepare a cursor object
-cursorObject = dataBase.cursor()
+cursorObject = dataBase.cursor(
 
 
 #Create a database
